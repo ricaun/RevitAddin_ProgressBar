@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitAddin_ProgressBar Application</Name>
+    <Assembly>RevitAddin_ProgressBar.dll</Assembly>
+    <FullClassName>RevitAddin_ProgressBar.Revit.App</FullClassName>
+    <ClientId>076b2d3b-c179-4160-956c-93c371cfe889</ClientId>
+    <VendorId>RevitAddin_ProgressBar</VendorId>
+    <VendorDescription>RevitAddin_ProgressBar</VendorDescription>
+    <AllowLoadingIntoExistingSession>true</AllowLoadingIntoExistingSession>
+  </AddIn>
+</RevitAddIns>
