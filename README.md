@@ -2,11 +2,15 @@
 
 Simple ProgressBar created using WPF.
 
+## ProgressBarView.xaml
  ![ProgressBar](./assets/ProgressBar.png)
 
-## Vídeo
+### Vídeo
 
 [![VideoIma]][Video]
+
+ ## ProgressBarView2.xaml
+ ![ProgressBar2](./assets/ProgressBar2.png)
 
 ## License
 
