@@ -35,7 +35,7 @@ namespace RevitAddin_ProgressBar.Views
             return IsClosed;
         }
 
-        private static void DoEvents()
+        private void DoEvents()
         {
             System.Windows.Forms.Application.DoEvents();
             System.Windows.Forms.Cursor.Current = System.Windows.Forms.Cursors.WaitCursor;
